@@ -1,8 +1,6 @@
 # java-project-1
 
-These are some sample programs I wrote in my CIS3090 (Object Oriented Programming for Business class) for a project that I was assigned to do
-
-The program descriptions are listed below
+These are some sample programs I wrote in my CIS3090 (Object Oriented Programming for Business class) for a project that I was assigned to do. The program descriptions are listed below....
 
 Part 1 is a program that will give the user the season of a given date, utilizing multiple switch statements.
 
